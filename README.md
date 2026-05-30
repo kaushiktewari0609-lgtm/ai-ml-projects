@@ -50,33 +50,6 @@ Each project includes:
 
 ---
 
-# 📂 Repository Structure
-
-```bash
-ai-ml-projects/
-│
-├── Big-Mart-Sales-Prediction/
-│   ├── project.ipynb
-│   ├── README.md
-│   ├── requirements.txt
-│   ├── train.csv / test.csv
-│   ├── report.docx
-│   └── images/
-│
-├── Big-Mart-Sales-Prediction/
-├── Cancer-Classification-NN/
-├── Customer-Churn-Prediction/
-├── Diabetes-Prediction/
-├── Heart-Disease-Prediction/
-├── Loan-Prediction/
-├── Medical-Insurance-Cost-Prediction/
-├── MNIST-Digit-Classification-NN/
-├── Movie-Recommendation-System/
-└── Spam-Mail-Prediction/
-```
-
----
-
 # ⭐ Features
 
 - Real-world datasets
