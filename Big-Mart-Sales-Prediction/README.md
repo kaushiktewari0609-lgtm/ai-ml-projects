@@ -91,7 +91,7 @@ The project includes various visualizations such as:
 - Outlet Analysis
 - Feature Relationship Analysis
 
-Screenshots are available in the **images/** folder.
+Screenshots are available in the **images** folder.
 
 ---
 
