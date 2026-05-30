@@ -63,7 +63,7 @@ ai-ml-projects/
 │   ├── report.docx
 │   └── images/
 │
-├──Big-Mart-Sales-Prediction/
+├── Big-Mart-Sales-Prediction/
 ├── Cancer-Classification-NN/
 ├── Customer-Churn-Prediction/
 ├── Diabetes-Prediction/
@@ -109,7 +109,7 @@ These visualizations help in better understanding of the data and model performa
 
 # 📧 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://www.linkedin.com/in/kaushik-tewari-28a766321
 - GitHub: https://github.com/kaushiktewari0609-lgtm
 
 ---
