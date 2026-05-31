@@ -1,0 +1,6 @@
+Requirements-
+
+1)numpy
+2)pandas
+3)scikit-learn
+4)jupyter
