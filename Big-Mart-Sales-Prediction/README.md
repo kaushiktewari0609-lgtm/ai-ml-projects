@@ -43,6 +43,14 @@ Dataset features include:
 - Outlet_Location_Type
 - Outlet_Type
 
+### Dataset Usage
+
+The dataset file (`train.csv`) is included in this project repository.
+
+To run the notebook successfully, ensure that `train.csv` is located in the same directory as `Big_Mart_Sales_Prediction.ipynb`.
+
+If you are using Google Colab, upload the dataset file before executing the notebook.
+
 ---
 
 ## ⚙️ Technologies Used
